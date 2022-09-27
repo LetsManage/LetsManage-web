@@ -1,0 +1,54 @@
+.click{
+    background-color: #263238;
+    padding: 15px 15px;
+    border-radius: 10px;
+    color: #fff!important;
+}
+
+@media (min-width: 1200px){
+    .d-flex {
+        margin-right: -30px;
+    }
+}
+@media (min-width: 1400px){
+    .d-flex {
+        margin-right: -100px;
+    }
+}
+.nav-navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-group__item{
+  padding: 1.5rem 3rem;
+  background-color: rgba(29,117,187,0.1);
+  cursor: pointer;
+  margin: 0;
+  font-size: 1.25rem;
+  box-shadow: inset 0px 0px 0px -15px rebeccapurple;
+  transition: all 300ms ease-out;
+  text-transform: capitalize;
+  border: none;
+  text-transform: capitalize;
+  font-weight: 800;
+}
+.btn-group__item:last-child {
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+  }
+  .btn-group__item:first-child {
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+  }
+  .card-title{
+    font-family: "Metropolis Semi Bold";
+  }
+  .form-select:focus{
+    border-color: #6c6e75;
+    outline: none;
+    box-shadow: none!important;
+  }
+  .imageshedow{
+  filter: drop-shadow(4px 4px 4px  #ddd);
+  }

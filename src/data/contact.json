@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "classOption": "address-list mb-4 mb-xl-10 pb-2",
+        "title": "Office Addres",
+        "info": "Jai Ganesh Visone Akuardi Offcie No.27 Pune Maharastra"
+    },
+    {
+        "id": 2,
+        "classOption": "address-list mb-4 mb-xl-10 pb-2",
+        "title": "Phone Number",
+        "info": "+91-70230 48299"
+    },
+    {
+        "id": 3,
+        "classOption": "address-list",
+        "title": "Web Address",
+        "info": "hello@letsmanage.co.in"
+    }
+]
